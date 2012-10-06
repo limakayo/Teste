@@ -1,1 +1,3 @@
-ola mundo
+<?php
+echo 'luis gay';
+?>
